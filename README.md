@@ -6,3 +6,6 @@ When functionality starts being developed, all a user will have to do is click o
 
 # Does it work yet?
 lmao no
+
+# What does it do as of current commit?
+Gives user a simple instruction page upon installation, that's about it.
